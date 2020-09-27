@@ -1,0 +1,1 @@
+['XAUUSD', 'FTSESA FUT', 'DIB FUT', 'ALINMA FUT', 'EMRDEV FUT', 'sov-gov']
